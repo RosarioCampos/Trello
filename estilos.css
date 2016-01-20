@@ -1,0 +1,215 @@
+body,html{
+	margin: 0;
+	padding: 0;
+}
+.azulF{
+	clear:both;
+	text-align: center;
+	background: #1E6BBD;
+	width: 100%;
+}
+.azulC{
+	clear:both;
+	text-align: center;
+	background: #D0E7FF;
+	width: 100%;
+}
+.azulM{
+	clear:both;
+	text-align: center;
+	background: #044B97;
+	width: 100%;
+}
+header{
+	text-align: center;
+	width: 100%;
+}
+.contenedor{
+	text-align: center;
+	width: 100%;
+	clear: both;
+}
+footer{
+	text-align: center;
+	width: 100%;
+}
+.logo{
+	padding-top: 100px;
+}
+.trello{
+	font-size: 35px;
+	padding-top: 0px;
+	color: #555757;
+	font-family: "Arial Black";
+}
+.caja{
+	width: 70%;
+	margin-left: 15%;
+}
+.caja2{
+	width: 38%;
+	margin-left: 32%;
+	padding-top: 100px;
+}
+.hero{
+	width: 84%;
+	padding-top: 40px;
+}
+.textos{
+	padding-left: 10%;
+	padding-top: 100px;
+	color: white;
+	width: 50%;
+	text-align: left;
+}
+.texto{
+	padding-left: 10%;
+	padding-top: 40px;
+	color: white;
+	width: 50%;
+	text-align: left;
+}
+.textoS{
+	padding-left: 10%;
+	padding-top: 10px;
+	padding-bottom: 100px;
+	color: white;
+	width: 50%;
+	text-align: left;
+}
+.marcada{
+	font-weight: bold;
+}
+p{
+	width: 55%;
+	font-family: Arial;
+	font-size: 20px;
+	color: #555757;
+	text-align: center;
+	margin-left: 20%;
+	font-weight: lighter;
+}
+.registrarse{
+	background: #46BB4E;
+	border: 0;
+	width: 25%;
+	font-family: "Arial Black";
+	color: white;
+	height: 45px;
+}
+.vinculo{
+	width: 40%;
+	padding-top: 30px;
+	padding-bottom: 100px;
+	font-size: 20px;
+	color: #C1C3C1;
+}
+.ver{
+	width: 25%;
+	font-family:"Arial Narrow";
+	font-weight:lighter;
+	color: #56B6EE;
+	border-color: #56B6EE;
+	font-size: 20px;
+	background: transparent;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 40px;
+}
+.ver2{
+	width: 55%;
+	font-family:"Arial Narrow";
+	font-weight:lighter;
+	color: #56B6EE;
+	border-color: #56B6EE;
+	font-size: 20px;
+	background: transparent;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 40px;
+}
+.espacio{
+	padding-top: 100px;
+}
+.app{
+	padding: 20px;
+	width: 55%;
+	text-align: left;
+	float:left;
+}
+.trel{
+	text-align: left;
+}
+.alineacion{
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.device{
+	width: 35%;
+}
+.imgApp{
+	margin-left: 20%;
+}
+
+.lado{
+	width: 70%;
+	float: left;
+}
+.poten{
+	text-align: left;
+	width: 77%;
+	margin-bottom: 40px;
+}
+.caja3{
+	width: 80%;
+}
+.blanco{
+	padding-top: 100px;
+	color: white;
+	width: 90%;
+	text-align: left;
+}
+.marcas{
+	padding: 20px;
+}
+.marcas2{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 100px;
+}
+.vinculo2{
+	width: 40%;
+	font-size: 20px;
+	color: #B3AFAF;
+	padding-left: 20px;
+}
+.privacy{
+		color: #B3AFAF;
+}
+.tam{
+	width: 80%;
+	padding-left: 30%;
+}
+
+.whi{
+	color: white;
+	text-align: left;
+	padding-left: 25%; 
+}
+.le{
+	width: 40%;
+	float: left;
+	height: 50px;
+}
+.ar{
+	padding-top: 40px;
+}
+.tod{
+	width:80%;
+	height: 200px;
+}
+.im{
+	padding-left: 50%;
+}
